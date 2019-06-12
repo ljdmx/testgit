@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/ljd/account/entity/Credit.java=UTF-8
+encoding//src/main/java/com/ljd/account/entity/Grant.java=UTF-8
+encoding//src/main/java/com/ljd/account/entity/LoanRecord.java=UTF-8
+encoding//src/main/java/com/ljd/controller/AccountController.java=UTF-8
+encoding//src/main/java/com/ljd/controller/AccountLogController.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/accountlog.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/grant.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/showaccount.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/showcredit.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
